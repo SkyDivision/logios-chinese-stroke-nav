@@ -1,0 +1,58 @@
+{
+  "u4e00": {
+    "char": "一",
+    "strokes": ["横"],
+    "pinyin": "yī",
+    "meaning": "one",
+    "radical": "一"
+  },
+  "u4e8c": {
+    "char": "二",
+    "strokes": ["横", "横"],
+    "pinyin": "èr",
+    "meaning": "two",
+    "radical": "二"
+  },
+  "u4e09": {
+    "char": "三",
+    "strokes": ["横", "横", "横"],
+    "pinyin": "sān",
+    "meaning": "three",
+    "radical": "一"
+  },
+  "u4eba": {
+    "char": "人",
+    "strokes": ["撇", "捺"],
+    "pinyin": "rén",
+    "meaning": "person, people",
+    "radical": "人"
+  },
+  "u5927": {
+    "char": "大",
+    "strokes": ["横", "撇", "捺"],
+    "pinyin": "dà",
+    "meaning": "big, large",
+    "radical": "大"
+  },
+  "u5c0f": {
+    "char": "小",
+    "strokes": ["竖", "撇", "点"],
+    "pinyin": "xiǎo",
+    "meaning": "small, tiny",
+    "radical": "小"
+  },
+  "u65e5": {
+    "char": "日",
+    "strokes": ["竖", "横折", "横", "横"],
+    "pinyin": "rì",
+    "meaning": "sun, day",
+    "radical": "日"
+  },
+  "u6708": {
+    "char": "月",
+    "strokes": ["撇", "横折钩", "横", "横"],
+    "pinyin": "yuè",
+    "meaning": "moon, month",
+    "radical": "月"
+  }
+}
