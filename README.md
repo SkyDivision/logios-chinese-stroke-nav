@@ -34,6 +34,6 @@ Technical Stack
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-username/logios-chinese-stroke-nav
+git clone https://github.com/SkyDivision/logios-chinese-stroke-nav
 cd logios-chinese-stroke-nav
 python main.py
