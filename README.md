@@ -5,11 +5,17 @@ Built by Sky Division & Logios, 2025
 
 *An intelligent Chinese character learning system that lets you navigate characters by their strokes*
 
-## Overview
+# Live Demo
+
+[ LIVE DEMO - Test Logios Stroke Navigator](https://letrat.eu/?page_id=19101)
+
+*Stroke-based search in action with real Chinese characters!*
+
+# Overview
 
 Ever wanted to find a Chinese character but only remembered how it's written, not how it's pronounced? Logios Stroke Navigator solves this! Draw the strokes you remember and discover characters through intuitive stroke-based search.
 
-## Features
+# Features
 
 - Stroke-Based Search: Find characters by stroke order and composition
 - Radical Intelligence: Smart radical detection and mapping
@@ -31,7 +37,7 @@ Technical Stack
     Comprehensive character database
     Radical decomposition system
 
-## Quick Start
+# Quick Start
 
 ```bash
 git clone https://github.com/SkyDivision/logios-chinese-stroke-nav
